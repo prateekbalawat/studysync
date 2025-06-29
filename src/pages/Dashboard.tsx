@@ -80,7 +80,9 @@ const Dashboard = () => {
   return (
     <div className="bg-gray-100 min-h-screen m-5 md:m-0">
       <div className="max-w-7xl mx-auto py-6">
-        <h1 className="text-2xl text-gray-800  font-bold mb-6">My Dashboard</h1>
+        <h1 className="text-2xl text-center text-gray-800  font-bold mb-6">
+          My Dashboard
+        </h1>
 
         {filteredCourses.length === 0 ? (
           <div className="text-center text-gray-600">
