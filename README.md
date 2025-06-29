@@ -39,13 +39,13 @@ A responsive educational web app built with **React**, **TypeScript**, **Tailwin
 
 1. - **Clone the repository**
    - git clone https://github.com/prateekbalawat/studysync.git
-     cd studysync
+   - cd studysync
 
 2. - **Install dependencies**
-     npm install
+   - npm install
 
 3. - **Run the development server**
-     npm run dev
+   - npm run dev
 
 4. - **Build for production**
-     npm run build
+   - npm run build
