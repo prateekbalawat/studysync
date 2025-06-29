@@ -6,8 +6,7 @@ A responsive educational web app built with **React**, **TypeScript**, **Tailwin
 
 ## 🚀 Live Demo
 
-[👉 Click here to view the live site](https://studysync-kappa-nine.vercel.app/)  
-_(Replace with actual link after deployment)_
+[👉 Click here to view the live site](https://studysync-kappa-nine.vercel.app/)
 
 ---
 
@@ -38,15 +37,15 @@ _(Replace with actual link after deployment)_
 
 ## 🔄 Setup & Installation
 
-1. **Clone the repository**
-   git clone https://github.com/prateekbalawat/studysync.git
-   cd studysync
+1. - **Clone the repository**
+   - git clone https://github.com/prateekbalawat/studysync.git
+     cd studysync
 
-2. **Install dependencies**
-   npm install
+2. - **Install dependencies**
+     npm install
 
-3. **Run the development server**
-   npm run dev
+3. - **Run the development server**
+     npm run dev
 
-4. **Build for production**
-   npm run build
+4. - **Build for production**
+     npm run build
