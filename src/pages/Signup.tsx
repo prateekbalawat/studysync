@@ -3,7 +3,7 @@ import { useAuth } from "../context/AuthContext";
 import { useNavigate } from "react-router-dom";
 
 const Signup = () => {
-  const { user, login } = useAuth(); // assuming same login logic for mock
+  const { login } = useAuth(); // assuming same login logic for mock
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const navigate = useNavigate();
